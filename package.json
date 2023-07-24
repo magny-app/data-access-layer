@@ -1,6 +1,6 @@
 {
   "name": "magny-data-access",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Data access layer to talk to Magny APIs",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
